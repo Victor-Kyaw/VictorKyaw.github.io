@@ -15,5 +15,5 @@ My Portfolio
 During the review of this gap analysis, I recognised the critical importance of unstructured legacy system monitoring and the overarching impact of missing Least Privilege controls. This project highlighted how isolated vulnerabilities (like unclassified assets) compound to create larger organisational risks, reinforcing the necessity for strict access controls and continuous automated monitoring in a security operations environment.
 
 ## Project Documentation
-📄 **[Download the Full Audit Report (PDF)](Controls%20and%20compliance%20checklist%20.pdf)**
+📄 **[Download the Full Audit Report (PDF)](Controls%20and%20compliance%20checklist.pdf)**
 📄 **[Download the Risk Assessment Report (PDF)](Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)**
