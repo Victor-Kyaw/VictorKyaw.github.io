@@ -1,5 +1,4 @@
 # VictorKyaw.github.io
-My Portfolio
 
 # My Cybersecurity Portfolio
 
